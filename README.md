@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sohail-Rasul
-- 👀 I’m interested in Python and Game Dev
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
