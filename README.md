@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sohail-Rasul
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mathematics, Programming, Finance
+- 🌱 I’m currently learning Java and Python
+
 
 <!---
 Sohail-Rasul/Sohail-Rasul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
