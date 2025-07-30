@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sohail-Rasul
 - 👀 I’m interested in Mathematics, Programming, Finance
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python, C and C++
 
 
 <!---
